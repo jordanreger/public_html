@@ -1,0 +1,16 @@
+body {
+	line-height: 1.2;
+	padding: 0 10px;
+	margin: 10px auto;
+	max-width: 650px;
+}
+
+img {
+	padding: 10px 0;
+	position: initial;
+	max-width: 100%;
+}
+
+nav {
+	margin-bottom: 10px;
+}
