@@ -3,7 +3,7 @@ oauth: pages.sr.ht/PAGES:RW
 packages:
 - hut
 environment:
-  site: jordanreger.srht.site
+  site: jordanreger.com
 tasks:
 - package: |
     cd public_html
