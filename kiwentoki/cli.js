@@ -1,11 +1,12 @@
-const search = Deno.args[0] ?? (() => { throw new Error("No word provided") })();
+import data from "./english.json" assert { type: "json" };
 
-const english = await fetch("https://jordanreger.com/kiwentoki/english.json")
-.then(res => res.json());
+function search (word) {
+  for (const def in data.words) {
+    if (data.words[def].includes(word)) {
+      return def;
+    }
+  }
+  return new Error(`${word} not found`);
+}
 
-const keys = Object.keys(english.words).filter((key) => {
-  if (typeof english.words[key] === "object") return english.words[key].some(def => def.toLowerCase() === search.toLowerCase());
-  else return english.words[key].toLowerCase() === search.toLowerCase();
-});
-
-keys.length === 0 ? console.log(`${search} not found`) : console.log(keys[0]);
+console.log(search(Deno.args[0]));
