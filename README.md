@@ -1,8 +1,5 @@
 # Jordan Reger
 
-[@jordanreger.com](https://bsky.app/profile/jordanreger.com)
+[@jordanreger.com](https://bsky.deno.dev/profile/jordanreger.com)
 
 Software/meteorology student
-
-
-[~jordanreger/blog@lists.sr.ht](https://lists.sr.ht/~jordanreger/blog)
