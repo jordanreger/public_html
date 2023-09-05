@@ -36,8 +36,12 @@
 		<li><a href="/kiwentoki/dutch.html">Dutch</a> (incomplete)</li>
 		<li><a href="/kiwentoki/swedish.html">Swedish</a> (incomplete)</li>
 	</ul>
-	<h2>Roadmap</h2>
-	<p>After the basic lists are complete for each language, I plan on making a searchable dictionary that encompasses each one.</p>
+	<h2>Search script</h2>
+	<p>I've built a small script to search through <a href="/kiwentoki/english.json"><code>english.json</code></a>. You can install it by running:</p>
+	<pre>deno install -A -n kiwentoki <a href="/kiwentoki/cli.js">https://jordanreger.com/kiwentoki/cli.js</a></pre>
+	<p>Then run <code>./kiwentoki {word}</code> to search for the toki pona equivalent. You can also uninstall by running:</p>
+	<pre>deno uninstall kiwentoki</pre>
+	<p>This is the start of a translation tool that will eventually be hosted here. At the moment it can only translate English to toki pona, but eventually it will expand to other languages and will allow for translation <i>through</i> toki pona.</p>
 </body>
 <hr/>
 <footer>
