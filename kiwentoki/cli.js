@@ -1,6 +1,6 @@
 const search = Deno.args[0] ?? (() => { throw new Error("No word provided") })();
 
-const english = await Deno.readTextFile("./english.json")
+const english = await fetch("https://jordanreger.com/kiwentoki/english.json")
 .then(res => JSON.parse(res));
 
 const keys = Object.keys(english.words).filter((key) => {
