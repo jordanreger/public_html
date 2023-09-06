@@ -124,11 +124,11 @@
     "prata": ["jag pratar", "du pratar", "hen pratar", "vi pratar", "ni pratar", "de pratar"]
   },
   "useful_english_words": {
-    "of": ["av"],
-    "to": ["till"],
-    "for": ["för"],
-    "translate": ["översätt"],
-    "sweden": ["sverige"],
-    "swedish": ["svenska"]
+    "av": ["of"],
+    "till": ["to"],
+    "för": ["for"],
+    "översätt": ["translate"],
+    "sverige": ["sweden"],
+    "svenska": ["swedish"]
   }
 }
