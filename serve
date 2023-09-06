@@ -1,1 +1,1 @@
-/Users/jordan/.deno/bin/file_server -p 80
+/Users/jordan/.deno/bin/file_server -p 80 --cors

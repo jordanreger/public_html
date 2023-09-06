@@ -13,15 +13,16 @@
   <table>
     <tr>
       <th>
-        <select name="target-language" id="target-language">
-          <option value="English">English</option>
+        <select name="lang" id="target-lang">
+          <option value="english">English</option>
+					<option value="swedish">Swedish</option>
         </select>
       </th>
       <th>toki pona</th>
     </tr>
     <tr>
-      <td><textarea placeholder="word" name="word" hx-get="https://kiwentoki.deno.dev/english" hx-trigger="keyup changed delay:500ms" hx-target="#translation"></textarea></td>
-      <td id="translation"></td>
+      <td><textarea hx-get="https://kiwentoki.deno.dev" hx-include="[name='lang']" name="word" hx-trigger="keyup changed delay:500ms" hx-target="#translation"></textarea></td>
+      <td id="translation">please enter word</td>
     </tr>
   </table>
 </body>
