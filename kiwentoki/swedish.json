@@ -43,7 +43,7 @@
     "linja": ["linje", "lång", "tunn"],
     "lipu": ["platt"],
     "loje": ["röd"],
-    "lon": ["plats", "att vara", "är", "på", "att finnas", "finns"],
+    "lon": ["plats", "att vara", "på", "att finnas", "finns"],
     "luka": ["hand"],
     "lukin": ["ser", "se"],
     "lupa": ["hål", "dörr"],
@@ -71,7 +71,7 @@
     "ona": ["hon", "han", "det", "de", "hen"],
     "open": ["öppen"],
     "pakala": ["misstag", "att skada", "skadar"],
-    "pali": ["arbete", "att göra", "gör"],
+    "pali": ["arbete", "att göra"],
     "palisa": ["stav", "pinne"],
     "pan": ["korn"],
     "pana": ["att ge", "ger"],
@@ -101,7 +101,7 @@
     "suwi": ["godis", "ljuv"],
     "tan": ["från", "förbi"],
     "taso": ["endast", "enda"],
-    "tawa": ["att gå", "går", "transport"],
+    "tawa": ["att gå", "transport"],
     "telo": ["vatten", "flytande"],
     "tenpo": ["tid"],
     "toki": ["att prata", "pratar", "språk"],
@@ -115,5 +115,20 @@
     "wawa": ["energi", "styrka"],
     "weka": ["saknad"],
     "wile": ["att vilja", "vill", "att behöva", "behöver"]
+  },
+  "conjugations": {
+    "vara": ["jag är", "du är", "hen är", "vi är", "ni är", "de är"],
+    "göra": ["jag gör", "du gör", "hen gör", "vi gör", "ni gör", "de gör"],
+    "komma": ["jag kommer", "du kommer", "hen kommer", "vi kommer", "ni kommer", "de kommer"],
+    "gå": ["jag går", "du går", "hen går", "vi går", "ni går", "de går"],
+    "prata": ["jag pratar", "du pratar", "hen pratar", "vi pratar", "ni pratar", "de pratar"]
+  },
+  "useful_english_words": {
+    "of": ["av"],
+    "to": ["till"],
+    "for": ["för"],
+    "translate": ["översätt"],
+    "sweden": ["sverige"],
+    "swedish": ["svenska"]
   }
 }
