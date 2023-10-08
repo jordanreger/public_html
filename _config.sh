@@ -3,8 +3,7 @@
 # Site specific settings
 ###################################################################################
 DOMAIN="https://jordanreger.com"
-TITLE="Jordan Reger"
-DESCRIPTION="I ride bikes, make coffee, write code, and take photos."
+TITLE="Jordan Reger's blog"
 COPYRIGHT="Copyright 2023, Jordan Reger"
 AUTHOR="mail@jordanreger.com (Jordan Reger)"
 OS="BSD" # "Linux" for Linux, "BSD" for BSD Systems (including MacOS)
