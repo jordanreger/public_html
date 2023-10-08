@@ -1,7 +1,7 @@
 image: alpine/edge
 oauth: pages.sr.ht/PAGES:RW
 environment:
-  site: jordanreger.srht.site
+  site: jordanreger.com
 sources:
   - https://git.sr.ht/~jordanreger/public_html
 tasks:
