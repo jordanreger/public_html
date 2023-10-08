@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US" xml:lang="en_US">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="dcterms.date" content="2023-08-06" />
+  <title>Alpine Linux</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../style.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<!-- Content placed here will appear directly after the opening <body> tag -->
+<nav>
+    <a href="./">Home</a><span>&nbsp;/&nbsp;</span>
+    <a href="./blog">Blog</a><span>&nbsp;/&nbsp;</span>
+</nav>
+<!-- Do not remove this opening article element -->
+<article>
+<header id="title-block-header">
+<h1 class="title">Alpine Linux</h1>
+<p class="date">2023-08-06</p>
+</header>
+<p>Drew Devault introduced me to Alpine Linux (second-handedly), and I&#x2019;m very glad as Alpine Linux treats me so well. I&#x2019;ve been trying to find something simple for about a year now, and have jumped between ElementaryOS, OpenBSD, NetBSD, etc. and all of them have had problems, notably running on my hardware (Intel i7 10th gen with integrated graphics). Alpine has had none so far. I would recommend reading his post entitled <a href="https://drewdevault.com/2023/07/25/Alpine-does-not-make-news.html">Alpine Linux does not make the news</a>, as it&#x2019;s a great intro into why Alpine Linux is so great. TL;DR (you really should read it): nothing goes wrong with Alpine Linux. It&#x2019;s written with musl libc so certain things don&#x2019;t work - the only ones I&#x2019;ve run into are Steam (installed via Flatpak) and QuickJS (apk package didn&#x2019;t work; rebuilt it from git) - but everything else does. Now I run it on my VM, accessible via <a href="https://fjall.net/">fj&#xE4;ll.net</a>. The documentation isn&#x2019;t as good as OpenBSD, the compatibility isn&#x2019;t as good as Ubuntu, but I don&#x2019;t care: Alpine works.</p>
+</article><!-- Do not remove this closing article element -->
+</body>
+</html>

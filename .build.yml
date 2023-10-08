@@ -1,0 +1,12 @@
+image: debian/stable
+oauth: pages.sr.ht/PAGES:RW
+environment:
+  site: pblog.bt.ht
+sources:
+  - https://git.sr.ht/~bt/pblog
+tasks:
+- package: |
+    cd pblog/_output
+    tar -cvz . > ../../site.tar.gz
+- upload: |
+    acurl -f https://pages.sr.ht/publish/$site -Fcontent=@site.tar.gz
