@@ -5,13 +5,13 @@ toc: false
 
 <style>#title-block-header{display:none}nav{display:none}ul{list-style-type:none;padding-left:0}</style>
 
-# Jordan Reger <[mail@jordanreger.com](mailto:mail@jordanreger.com)>
+Jordan Reger <[mail@jordanreger.com](mailto:mail@jordanreger.com)>
 
 I ride bikes, make coffee, [write code](https://sr.ht/~jordanreger), and [take photos](https://unsplash.com/jordanreger).
 
 ---
 
-## Blog posts
+Blog posts
 
 - 2023-10-05 [Rethinking this blog](/blog/2023-10-05.html)
 - 2023-09-18 [Why I like Go more than any other language](/blog/2023-09-18.html)
