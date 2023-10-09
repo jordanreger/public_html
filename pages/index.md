@@ -3,7 +3,7 @@ title: index
 toc: false
 ---
 
-<style>#title-block-header{display:none}nav{display:none}ul{list-style-type:none;padding-left:0}</style>
+<style>#title-block-header{display:none}nav{display:none}ul{list-style-type:none;padding-left:0}footer{display:none}</style>
 
 Jordan Reger <[mail@jordanreger.com](mailto:mail@jordanreger.com)>
 
