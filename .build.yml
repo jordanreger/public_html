@@ -6,7 +6,7 @@ sources:
   - https://git.sr.ht/~jordanreger/public_html
 tasks:
 - package: |
-    cd public_html/_output
+    cd public_html/build
     tar -cvz . > ../../site.tar.gz
 - upload: |
     acurl -f https://pages.sr.ht/publish/$site -Fcontent=@site.tar.gz

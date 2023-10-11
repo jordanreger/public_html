@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title></title>
+	<link href="https://jordanreger.com/atom.xml" rel="self" />
+	<updated>2023-10-11T13:31:51Z</updated>
+	<author>
+		<name>Jordan Reger</name>
+	</author>
+	<id>https://jordanreger.com,2023-08-29:default-atom-feed/</id>
+	<entry>
+		<title>Rethinking this blog</title>
+		<content type="html">&lt;h1&gt;Rethinking this blog&lt;/h1&gt;
+&lt;p&gt;2023-10-05&lt;/p&gt;
+&lt;p&gt;I am not very good at keeping my writings around for long. I wrote about this a while back and then moved from that blog a few weeks later. &lt;a href=&quot;https://jr.smol.pub/digital-preservation&quot;&gt;Ironic...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anyways, I&#39;m tired of writing about technology, most specifically programming languages and problems with the software engineering community/industry. This runs much deeper than this blog - I am tired of engineering completely, honestly. I am an engineer in most every way but I&#39;m not sure I am cut out for engineering as a practice. I&#39;ve followed aerospace, mechanical, and now software engineering and I am at my wit&#39;s end. I love solving problems but I cannot stand the environment, the lifelessness in the actual practice, and the constant pursuit of a product that will inevitably take advantage of the end-user in some way. It&#39;s not worth it to me anymore. Being in school for it specifically has exemplified this feeling - It cost me $8000, which may be worth it in the long run. I just want to be happy; not some prodigy, not a typical suburban white male, etc. I want to minimize my footprint to a minimum. I want to be happy and share that with other people. I want nothing else.&lt;/p&gt;
+&lt;p&gt;I apologize for the extreme tangent, but the aforementioned feelings are what have led to this decision. I want to write more about what I&#39;m learning, what I&#39;m listening to, what bikes I ride and where I&#39;m going, coffee, photography, you name it. I may still include little tech things like my Google Glass or other little projects, but besides that, no tech. I hope this serves us all well.&lt;/p&gt;</content>
+		<link href="https://jordanreger.com/2023-10-05"/>
+		<id>https://jordanreger.com/2023-10-05</id>
+		<updated>2023-10-05T10:00:00Z</updated>
+		<published>2023-10-05T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Why I like Go more than any other language</title>
+		<content type="html">&lt;h1&gt;Why I like Go more than any other language&lt;/h1&gt;
+&lt;p&gt;2023-09-18&lt;/p&gt;
+&lt;p&gt;Go is not really a popular language, simply because a lot of people look to languages like Rust, Zig, or TypeScript for their project or learning. I don&#39;t blame them; they&#39;re popular for a reason. As my last blog post described, I love Rust after working with it for just a week. I think that&#39;s amazing! There&#39;s something way more fascinating about Go though, and that is that it is not flashy whatsoever. It&#39;s not the hottest language. It doesn&#39;t have any &quot;blazingly fast&quot; features (except the concurrency model, but we&#39;ll discard that for sake of discussion). It just gets the job done as quick and simply as possible. I value code readability more than anything really - this has gotten me into a lot of arguments - because in my opinion, code is a form of a story. A story guided by strict logic. If you can&#39;t follow the story easily, it is a bad story (it may still have one, but is not good).&lt;/p&gt;
+&lt;p&gt;Go is often compared to Python, which I think is an oversimplification. Maybe it&#39;s because I learned to program in Python but I will probably never use it again - it is a nightmare to use now because of the web of dependencies, the weird transition from Python 2 to Python 3, and above all - it&#39;s just so complicated for a seemingly simple language. Most people hate it for the formatting, but that is very low on my list. It feels like node_modules as a language. Go is only similar in a few ways to Python, and none of those actually matter (basically just the lack of semicolons). Go is a systems (and, I&#39;d argue web-forward) language that is closer to C than Python. After all, Ken Thompson and Rob Pike helped design it.&lt;/p&gt;
+&lt;p&gt;To me it feels like the only language with intentional design from the start. I am a big fan of the UNIX philosophy and minimalism and I believe Go is the only language that truly embodies the UNIX philosophy. Very much like the game of Go, it is not complicated yet it can scale into a massive, unique creation using it&#39;s simple parts. The fact that I wrote the same amount of code in Go in about 1/8 the time it took to write Rust should say quite a lot about the simplicity of it all. I may enjoy learning programming languages but I have found my lifelong friend, the language I will write most things in: Go.&lt;/p&gt;</content>
+		<link href="https://jordanreger.com/2023-09-18"/>
+		<id>https://jordanreger.com/2023-09-18</id>
+		<updated>2023-09-18T10:00:00Z</updated>
+		<published>2023-09-18T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>I'm a normal person</title>
+		<content type="html">&lt;h1&gt;I&#39;m a normal person&lt;/h1&gt;
+&lt;p&gt;2023-08-21&lt;/p&gt;
+&lt;p&gt;I often forget that I&#39;m a normal person. I don&#39;t feel like a &quot;main character&quot; but I do often forget that most things don&#39;t affect me and I shouldn&#39;t worry about them. Things as big as climate change, social issues, and other things that are almost completely out of my hands.&lt;/p&gt;
+&lt;p&gt;I also worry about becoming this superstar X (fill in the blank), largely because the majority of past Jordans thought they could do anything. I don&#39;t blame anyone for this, it was just simply my lack of failure. A lot was very easy for me as a kid, and if it wasn&#39;t, I did it as little as possible. Once again, I don&#39;t blame anyone for this - I was a kid.&lt;/p&gt;
+&lt;p&gt;Recently I&#39;ve been thinking about the future of my career. I&#39;m still in school, quite close to being done, but it has led me to mostly dislike software engineering as a whole. The industry is a mess and I want to apply it to something good. However, I&#39;ve also realized these two things:&lt;/p&gt;
+&lt;p&gt;It&#39;s okay to not be specialized. In fact, I doubt I could ever become specialized because I am interested in learning so many different things. It&#39;s okay to work at a grocery store or coffee shop as an adult, because we need those jobs filled.&lt;/p&gt;
+&lt;p&gt;It&#39;s time to suck it up. Nothing is perfect, so stopping to complain about it is not okay. You can most certainly implement change by not participating, but there&#39;s only so much one person can do. In that case, either tell other people to change it with you or just accept it (in this instance I&#39;m talking about the software industry specifically).&lt;/p&gt;
+&lt;p&gt;Anyways, I still feel a drive to do the right thing but I&#39;ve realized that my part is only human-sized, and I don&#39;t need to worry much about it.&lt;/p&gt;</content>
+		<link href="https://jordanreger.com/2023-08-21"/>
+		<id>https://jordanreger.com/2023-08-21</id>
+		<updated>2023-08-21T10:00:00Z</updated>
+		<published>2023-08-21T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Minimizing my wasteful web presence</title>
+		<content type="html">&lt;h1&gt;Minimizing my wasteful web presence&lt;/h1&gt;
+&lt;p&gt;2023-08-09&lt;/p&gt;
+&lt;p&gt;n an effort to minimize my wasteful web presence, I have shifted a few things around. I used to own 8 domains, and only really used two of them for something I used daily: futurist.city and futurist.pub. I also keep jordanreger.com around for &quot;historical purposes&quot; (I&#39;ve had it since I was 7). Today, though, all of that changes. I will not be renewing any of the following domains:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2jr.co (2023-12-15)&lt;/li&gt;
+&lt;li&gt;crate.land (2024-02-04)&lt;/li&gt;
+&lt;li&gt;feeds.land (2023-11-09)&lt;/li&gt;
+&lt;li&gt;futurist.city (2024-01-24)&lt;/li&gt;
+&lt;li&gt;futurist.pub (2024-06-21)&lt;/li&gt;
+&lt;li&gt;glasskit.dev (2024-03-04)&lt;/li&gt;
+&lt;li&gt;xfxc.net (2024-07-14)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2jr.co was a short domain for me to have links to blog posts, social media, etc. I don&#39;t use it anymore. crate.land was a project built on Deno that spawned native webviews from JavaScript. feeds.land was a web-based RSS feed reader that used local storage to store your feeds. futurist.city is a pubnix (we&#39;ll get back to this in a second). futurist.pub is an activitypub server. glasskit.dev is my Google Glass revival project (we&#39;ll also talk about this one in a second). xfxc.net was a... uh... well, it sounded cool.&lt;/p&gt;
+&lt;p&gt;The point I&#39;m making here is that a large portion of the domains I own are useless. Not only is this expensive on my part, it&#39;s technically domain-squatting: something I don&#39;t agree with. Let&#39;s talk about jordanreger.com really quick: chances are you&#39;re reading this post on there. That&#39;s because this domain will stay with me hopefully for the rest of my life. futurist.city is a pubnix, as I mentioned, one that I quite like maintaining. Well, as of a couple days ago I migrated it to an Alpine Linux VM and consequently named it fjall.net. This is my do-it-all domain from now on. fjall.net will be the futurist.city pubnix but will host projects, software, and more. I chose to move it to a new domain because it&#39;s cheaper, shorter, and I feel happy with it (meaning I won&#39;t be tempted to buy a new one). glasskit.dev has moved to a &lt;a href=&quot;https://man.sr.ht/~jordanreger/Glasskit&quot;&gt;Sourcehut wiki&lt;/a&gt; and will remain there. futurist.pub will be shutting down at the end of its renew cycle.&lt;/p&gt;
+&lt;p&gt;So, at the end of the day, I will only be keeping jordanreger.com and fjall.net. They are both hosted on the same VM, which saves money but also consolidates the development to just one place. Everything else has either found a new home or will be shut down at the end of it&#39;s lifecycle. The direction of fjall.net will be determined sooner than later, but for now, it will just stay as my personal VM and will eventually expand into a pubnix.&lt;/p&gt;
+&lt;p&gt;I hope that by doing this I can cut down on my wasteful web presence.&lt;/p&gt;</content>
+		<link href="https://jordanreger.com/2023-08-09"/>
+		<id>https://jordanreger.com/2023-08-09</id>
+		<updated>2023-08-09T10:00:00Z</updated>
+		<published>2023-08-09T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Alpine Linux</title>
+		<content type="html">&lt;h1&gt;Alpine Linux&lt;/h1&gt;
+&lt;p&gt;2023-08-06&lt;/p&gt;
+&lt;p&gt;Drew Devault introduced me to Alpine Linux (second-handedly), and I&#39;m very glad as Alpine Linux treats me so well. I&#39;ve been trying to find something simple for about a year now, and have jumped between ElementaryOS, OpenBSD, NetBSD, etc. and all of them have had problems, notably running on my hardware (Intel i7 10th gen with integrated graphics). Alpine has had none so far. I would recommend reading his post entitled &lt;a href=&quot;https://drewdevault.com/2023/07/25/Alpine-does-not-make-news.html&quot;&gt;Alpine Linux does not make the news&lt;/a&gt;, as it&#39;s a great intro into why Alpine Linux is so great. TL;DR (you really should read it): nothing goes wrong with Alpine Linux. It&#39;s written with musl libc so certain things don&#39;t work - the only ones I&#39;ve run into are Steam (installed via Flatpak) and QuickJS (apk package didn&#39;t work; rebuilt it from git) - but everything else does. Now I run it on my VM, accessible via &lt;a href=&quot;https://fjall.net/&quot;&gt;fjäll.net&lt;/a&gt;. The documentation isn&#39;t as good as OpenBSD, the compatibility isn&#39;t as good as Ubuntu, but I don&#39;t care: Alpine works.&lt;/p&gt;</content>
+		<link href="https://jordanreger.com/2023-08-06"/>
+		<id>https://jordanreger.com/2023-08-06</id>
+		<updated>2023-08-06T10:00:00Z</updated>
+		<published>2023-08-06T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>GlassKit</title>
+		<content type="html">&lt;h1&gt;GlassKit&lt;/h1&gt;
+&lt;p&gt;2023-08-02&lt;/p&gt;
+&lt;p&gt;I am the lead developer of a project called GlassKit. This project started a little less than a year ago when I decided to pick up my Google Glass and actually make it work, rather than just leaving it as a cool thing on a shelf. I started updating the old apps, creating new ones and putting them all on the Glass. I put it all on Github and eventually people started reaching out saying how cool it was. As of now, the project is still open but I do not work on it anymore, as the amount of time it takes to build and maintain these projects is way more than I have available, so for now they&#39;re stagnant. That doesn&#39;t mean they won&#39;t continue on in the future, however. I would love to get my Glass back to full function (or more!) and I think it&#39;s possible to do so. I just have to get a lot more done before I can do that...&lt;/p&gt;
+&lt;p&gt;If you want to check out the project, I recently ported it to Sourcehut:
+&lt;a href=&quot;https://sr.ht/~jordanreger/GlassKit&quot;&gt;sr.ht/~jordanreger/GlassKit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Later, Glassholes.&lt;/p&gt;</content>
+		<link href="https://jordanreger.com/2023-08-02"/>
+		<id>https://jordanreger.com/2023-08-02</id>
+		<updated>2023-08-02T10:00:00Z</updated>
+		<published>2023-08-02T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Email is easy, except not really</title>
+		<content type="html">&lt;h1&gt;Email is easy, except not really&lt;/h1&gt;
+&lt;p&gt;2023-06-15&lt;/p&gt;
+&lt;p&gt;I recently set up &lt;a href=&quot;https://man.openbsd.org/smtpd&quot;&gt;smtpd&lt;/a&gt; for futurist.city following &lt;a href=&quot;https://blog.obtusenet.com/byoes-build-your-own-email-server&quot;&gt;this tutorial&lt;/a&gt;, and it was super easy! In fact, it was so much easier than I thought. Email has always been a daunting task in my mind, and I was afraid it would always be that way. But, sure enough, I got it set up in around an hour. Except wait, I can&#39;t send emails externally? But I can receive external emails? This is weird. Okay, maybe there&#39;s something else going on. As with most of what I&#39;ve learned about OpenBSD recently, I headed to the IRC chat. I figure out that the VPS host blocks the SMTP port by default, and you have to fill out a form to get it unblocked. I do so, and shortly after the port is unblocked. I&#39;m excited, so I try to send another email and it sends, but I can&#39;t see it? Okay, apparently iCloud is refusing the connection. Gmail actually does receive it, except it sends it straight to spam? Okay, I&#39;ll enable all of the spam protection, and use SPF and DKIM. I try again. Same result. Weird... I go to the IRC chat again: &quot;oh yeah that&#39;s just how email is, don&#39;t take it personally&quot;&lt;/p&gt;</content>
+		<link href="https://jordanreger.com/2023-06-15"/>
+		<id>https://jordanreger.com/2023-06-15</id>
+		<updated>2023-06-15T10:00:00Z</updated>
+		<published>2023-06-15T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Advertising and Media</title>
+		<content type="html">&lt;h1&gt;Advertising and Media&lt;/h1&gt;
+&lt;p&gt;2023-06-11&lt;/p&gt;
+&lt;p&gt;I am a mountain biker, and I like watching mountain bike tournaments; especially downhill racing. It&#39;s exhilerating. I only got into mountain biking physically in the last year or so, but I&#39;ve been watching mountain bike events for almost 7 years now. I&#39;ve always loved the &lt;a href=&quot;https://crankworx.com/&quot;&gt;Crankworx tour&lt;/a&gt; and hope to go see it in person one day. Same with the UCI tournaments, as I mentioned, specifically the downhill events. For the time being, however, I will watch them online. (Quick note: no shame towards anyone mentioned except major streaming services like discovery+ and Youtube. Red Bull TV is perfectly fine in my opinion, and I really hope it stays that way. They make great stuff and they do it for free, so I appreciate them.)&lt;/p&gt;
+&lt;p&gt;You can imagine my frustration then when it took me almost 45 minutes to even get to a spot where I could watch. This morning I thought to myself &quot;man, it&#39;d be nice to watch Jackson Goldstone compete. I&#39;ll go onto the Red Bull TV app and watch the downhill race.&quot;&lt;/p&gt;
+&lt;p&gt;it&#39;s not there...&lt;/p&gt;
+&lt;p&gt;&quot;Alright then, I&#39;ll check the UCI website. Maybe they changed it recently? Oh okay, looks like they did. Now it&#39;s on discovery+. Great, I can do that. Let me just download the app.&quot;&lt;/p&gt;
+&lt;p&gt;it&#39;s not there either...&lt;/p&gt;
+&lt;p&gt;&quot;Okay, this is getting kind of annoying. I thought they said it was on here? Maybe I&#39;ll check again. I&#39;ll try the website this time. Oh look! It&#39;s there, finally I found it. Let me login.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;incorrect login&quot;&lt;/p&gt;
+&lt;p&gt;&quot;There&#39;s no way. I know for a fact this is the password because I just logged in. Maybe I did get it wrong. Hmmm... nope. Maybe it&#39;s the VPN?&quot;&lt;/p&gt;
+&lt;p&gt;&quot;incorrect login&quot;&lt;/p&gt;
+&lt;p&gt;&quot;This is frustrating, but I&#39;ve put so much time into this that I&#39;m going to do what it takes. Fine, let me just find another provider. Okay, the GCN. I can do that. Alright, let&#39;s create an account and sign in...&quot;&lt;/p&gt;
+&lt;p&gt;page loads, refreshes, &quot;incorrect password&quot;&lt;/p&gt;
+&lt;p&gt;&quot;What?!&quot;&lt;/p&gt;
+&lt;p&gt;same thing again. third time, page refreshes and I&#39;m logged in.&lt;/p&gt;
+&lt;p&gt;&quot;Thank god. That was insanely annoying, but now I can watch it.&quot;&lt;/p&gt;
+&lt;p&gt;$8.99/month subscription&lt;/p&gt;
+&lt;p&gt;:|&lt;/p&gt;
+&lt;p&gt;If you want to know, I ended up rage-buying (?) it, watching it for about 3 minutes, and then cancelling the subscription because I was still angry about how long it took me to get to this point.&lt;/p&gt;
+&lt;p&gt;This brings me to another point. Along with the annoying loops and massive walled gardens of streaming platforms nowadays, the more &quot;free&quot; platforms are starting to tighten their grip. Almost every video I&#39;ve watched on Youtube nowadays has had unskippable 15 second and consecutive 5-15 second ads. Sometimes, it&#39;s on a video that&#39;s shorter than the time it takes to watch the ads! I hate this, because I want to be able to support the creators I have for so long by watching their work, but advertisements are getting extremely annoying and invasive, to the point where I can&#39;t take it anymore. I&#39;ve started paying for Nebula because a lot of my favorite creators are already on their and I&#39;m glad I can support them that way, but the rest of them are probably going to be left behind due to the insane amounts of ads that Youtube has been pushing recently (or maybe my tolerance being drastically lowered). I&#39;m a huge fan of cyberpunk media and a popular trope is the omnipresent advertising. It looks beautiful in places like Blade Runner or Ghost in the Shell, but it is extremely annoying in real life and it&#39;s starting to feel like we&#39;re actually getting worse than the portrayals of exemplified social problems through art (aka cyberpunk media).&lt;/p&gt;
+&lt;p&gt;tl;dr: I&#39;m tired of advertising and media streaming platforms.&lt;/p&gt;</content>
+		<link href="https://jordanreger.com/2023-06-11"/>
+		<id>https://jordanreger.com/2023-06-11</id>
+		<updated>2023-06-11T10:00:00Z</updated>
+		<published>2023-06-11T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Simplicity and Culture</title>
+		<content type="html">&lt;h1&gt;Simplicity and Culture&lt;/h1&gt;
+&lt;p&gt;2023-06-08&lt;/p&gt;
+&lt;p&gt;I am a simple person.&lt;/p&gt;
+&lt;p&gt;I enjoy the complexities of technological innovation and our society because they&#39;re undoubtedly impressive, but I also feel a very strong resistance to it. I (mostly) don&#39;t appreciate material things and I don&#39;t like American culture in almost every way. The announcement of Apple&#39;s Vision Pro headset has made me fully realize how torn I am; I love the design and the idea, but it seems like it has the potential to make our mental health/societal problems collectively worse. I&#39;m a sucker for cyberpunk media (and, for the sake of this post, especially Ready Player One) but I also know just how bad it would be for humanity if any of those universes were to be (more) real.&lt;/p&gt;
+&lt;p&gt;I&#39;ve recently started learning about &lt;a href=&quot;https://en.wikipedia.org/wiki/Permaculture&quot;&gt;permaculture&lt;/a&gt; and &lt;a href=&quot;http://viznut.fi/texts-en/permacomputing.html&quot;&gt;permacomputing&lt;/a&gt; and I&#39;m excited to learn more. One of the scariest things about the problems we face as a species are the people who are potentially (and maliciously) leading us in the wrong direction. Permaculture/computing is extremely fascinating to me because I think they&#39;re the perfect blend of simplicity and complexity. I think that to solve the climate and energy crises that are hurtling towards us (and &lt;a href=&quot;https://neuters.de/business/environment/us-states-under-air-quality-alerts-canadian-smoke-drifts-south-2023-06-07/&quot;&gt;in some ways are already occurring&lt;/a&gt;) a drastic change is needed and permaculture/computing can provide a framework for how we can transition everything else to a more sustainable and human-friendly future.&lt;/p&gt;
+&lt;p&gt;The random launch into conversation about the impending dystopia is a normal thing for me, so you&#39;ll have to excuse it, but I think it&#39;s important to keep myself grounded in this way. Anyways, I try to live simply because of this and I think a lot of people could benefit from doing the same - a lot of things are way more simple than they seem, or at least they should be. I think about this often and consequentially have simplified practically everything in my life. This is the opposite of the culture I live in and frankly I hate it. I feel the same way that Drew Devault does in &lt;a href=&quot;https://drewdevault.com/2021/06/07/The-Netherlands.html&quot;&gt;his post about moving to the Netherlands&lt;/a&gt; where he says &quot;leaving the US is a selfish choice.&quot; I&#39;m sure I could stay here and make change happen but it feels more damaging to stay here fighting for what&#39;s right than it does to do the same somewhere less... bad, for a lack of a better word. To be honest, I&#39;m not really sure how to navigate the future because of this and that has wrecked a lot of decisions for me. I&#39;m glad to be where I&#39;m at now but it is difficult to realize that I&#39;ve given up a traditionally attractive lifestyle (or rather, what would be) for my morals.&lt;/p&gt;
+&lt;p&gt;If only things were simpler...&lt;/p&gt;</content>
+		<link href="https://jordanreger.com/2023-06-08"/>
+		<id>https://jordanreger.com/2023-06-08</id>
+		<updated>2023-06-08T10:00:00Z</updated>
+		<published>2023-06-08T10:00:00Z</published>
+	</entry>
+</feed>
