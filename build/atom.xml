@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title></title>
 	<link href="https://jordanreger.com/atom.xml" rel="self" />
-	<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
+	<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
 	<author>
 		<name>Jordan Reger</name>
 	</author>
@@ -16,8 +16,8 @@
 &lt;p&gt;I apologize for the extreme tangent, but the aforementioned feelings are what have led to this decision. I want to write more about what I&#39;m learning, what I&#39;m listening to, what bikes I ride and where I&#39;m going, coffee, photography, you name it. I may still include little tech things like my Google Glass or other little projects, but besides that, no tech. I hope this serves us all well.&lt;/p&gt;</content>
 		<link href="https://jordanreger.com/2023-10-05"/>
 		<id>https://jordanreger.com/2023-10-05</id>
-		<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
-		<published>Thu Oct 12 20:02:56 UTC 2023</published>
+		<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
+		<published>Thu Oct 12 20:23:18 UTC 2023</published>
 	</entry>
 	<entry>
 		<title>Why I like Go more than any other language</title>
@@ -28,8 +28,8 @@
 &lt;p&gt;To me it feels like the only language with intentional design from the start. I am a big fan of the UNIX philosophy and minimalism and I believe Go is the only language that truly embodies the UNIX philosophy. Very much like the game of Go, it is not complicated yet it can scale into a massive, unique creation using it&#39;s simple parts. The fact that I wrote the same amount of code in Go in about 1/8 the time it took to write Rust should say quite a lot about the simplicity of it all. I may enjoy learning programming languages but I have found my lifelong friend, the language I will write most things in: Go.&lt;/p&gt;</content>
 		<link href="https://jordanreger.com/2023-09-18"/>
 		<id>https://jordanreger.com/2023-09-18</id>
-		<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
-		<published>Thu Oct 12 20:02:56 UTC 2023</published>
+		<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
+		<published>Thu Oct 12 20:23:18 UTC 2023</published>
 	</entry>
 	<entry>
 		<title>I'm a normal person</title>
@@ -43,8 +43,8 @@
 &lt;p&gt;Anyways, I still feel a drive to do the right thing but I&#39;ve realized that my part is only human-sized, and I don&#39;t need to worry much about it.&lt;/p&gt;</content>
 		<link href="https://jordanreger.com/2023-08-21"/>
 		<id>https://jordanreger.com/2023-08-21</id>
-		<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
-		<published>Thu Oct 12 20:02:56 UTC 2023</published>
+		<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
+		<published>Thu Oct 12 20:23:18 UTC 2023</published>
 	</entry>
 	<entry>
 		<title>Minimizing my wasteful web presence</title>
@@ -66,8 +66,8 @@
 &lt;p&gt;I hope that by doing this I can cut down on my wasteful web presence.&lt;/p&gt;</content>
 		<link href="https://jordanreger.com/2023-08-09"/>
 		<id>https://jordanreger.com/2023-08-09</id>
-		<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
-		<published>Thu Oct 12 20:02:56 UTC 2023</published>
+		<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
+		<published>Thu Oct 12 20:23:18 UTC 2023</published>
 	</entry>
 	<entry>
 		<title>Alpine Linux</title>
@@ -76,8 +76,8 @@
 &lt;p&gt;Drew Devault introduced me to Alpine Linux (second-handedly), and I&#39;m very glad as Alpine Linux treats me so well. I&#39;ve been trying to find something simple for about a year now, and have jumped between ElementaryOS, OpenBSD, NetBSD, etc. and all of them have had problems, notably running on my hardware (Intel i7 10th gen with integrated graphics). Alpine has had none so far. I would recommend reading his post entitled &lt;a href=&quot;https://drewdevault.com/2023/07/25/Alpine-does-not-make-news.html&quot;&gt;Alpine Linux does not make the news&lt;/a&gt;, as it&#39;s a great intro into why Alpine Linux is so great. TL;DR (you really should read it): nothing goes wrong with Alpine Linux. It&#39;s written with musl libc so certain things don&#39;t work - the only ones I&#39;ve run into are Steam (installed via Flatpak) and QuickJS (apk package didn&#39;t work; rebuilt it from git) - but everything else does. Now I run it on my VM, accessible via &lt;a href=&quot;https://fjall.net/&quot;&gt;fjäll.net&lt;/a&gt;. The documentation isn&#39;t as good as OpenBSD, the compatibility isn&#39;t as good as Ubuntu, but I don&#39;t care: Alpine works.&lt;/p&gt;</content>
 		<link href="https://jordanreger.com/2023-08-06"/>
 		<id>https://jordanreger.com/2023-08-06</id>
-		<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
-		<published>Thu Oct 12 20:02:56 UTC 2023</published>
+		<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
+		<published>Thu Oct 12 20:23:18 UTC 2023</published>
 	</entry>
 	<entry>
 		<title>GlassKit</title>
@@ -89,8 +89,8 @@
 &lt;p&gt;Later, Glassholes.&lt;/p&gt;</content>
 		<link href="https://jordanreger.com/2023-08-02"/>
 		<id>https://jordanreger.com/2023-08-02</id>
-		<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
-		<published>Thu Oct 12 20:02:56 UTC 2023</published>
+		<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
+		<published>Thu Oct 12 20:23:18 UTC 2023</published>
 	</entry>
 	<entry>
 		<title>Email is easy, except not really</title>
@@ -99,8 +99,8 @@
 &lt;p&gt;I recently set up &lt;a href=&quot;https://man.openbsd.org/smtpd&quot;&gt;smtpd&lt;/a&gt; for futurist.city following &lt;a href=&quot;https://blog.obtusenet.com/byoes-build-your-own-email-server&quot;&gt;this tutorial&lt;/a&gt;, and it was super easy! In fact, it was so much easier than I thought. Email has always been a daunting task in my mind, and I was afraid it would always be that way. But, sure enough, I got it set up in around an hour. Except wait, I can&#39;t send emails externally? But I can receive external emails? This is weird. Okay, maybe there&#39;s something else going on. As with most of what I&#39;ve learned about OpenBSD recently, I headed to the IRC chat. I figure out that the VPS host blocks the SMTP port by default, and you have to fill out a form to get it unblocked. I do so, and shortly after the port is unblocked. I&#39;m excited, so I try to send another email and it sends, but I can&#39;t see it? Okay, apparently iCloud is refusing the connection. Gmail actually does receive it, except it sends it straight to spam? Okay, I&#39;ll enable all of the spam protection, and use SPF and DKIM. I try again. Same result. Weird... I go to the IRC chat again: &quot;oh yeah that&#39;s just how email is, don&#39;t take it personally&quot;&lt;/p&gt;</content>
 		<link href="https://jordanreger.com/2023-06-15"/>
 		<id>https://jordanreger.com/2023-06-15</id>
-		<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
-		<published>Thu Oct 12 20:02:56 UTC 2023</published>
+		<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
+		<published>Thu Oct 12 20:23:18 UTC 2023</published>
 	</entry>
 	<entry>
 		<title>Advertising and Media</title>
@@ -128,8 +128,8 @@
 &lt;p&gt;tl;dr: I&#39;m tired of advertising and media streaming platforms.&lt;/p&gt;</content>
 		<link href="https://jordanreger.com/2023-06-11"/>
 		<id>https://jordanreger.com/2023-06-11</id>
-		<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
-		<published>Thu Oct 12 20:02:56 UTC 2023</published>
+		<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
+		<published>Thu Oct 12 20:23:18 UTC 2023</published>
 	</entry>
 	<entry>
 		<title>Simplicity and Culture</title>
@@ -142,7 +142,7 @@
 &lt;p&gt;If only things were simpler...&lt;/p&gt;</content>
 		<link href="https://jordanreger.com/2023-06-08"/>
 		<id>https://jordanreger.com/2023-06-08</id>
-		<updated>Thu Oct 12 20:02:56 UTC 2023</updated>
-		<published>Thu Oct 12 20:02:56 UTC 2023</published>
+		<updated>Thu Oct 12 20:23:18 UTC 2023</updated>
+		<published>Thu Oct 12 20:23:18 UTC 2023</published>
 	</entry>
 </feed>
