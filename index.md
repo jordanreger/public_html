@@ -5,8 +5,9 @@
 <h1 style="margin-top:0;margin-bottom:0">Jordan Reger</h1>
 <p style="margin-top:0"><a href="mailto:mail@jordanreger.com">mail@jordanreger.com</a></p>
 
-I [ride bikes](#bikes), [watch weather](#weather), [make coffee](#coffee), [write code](#code), and [take photos](#photography).
+I ride bikes, watch weather, make coffee, write code, and take photos.
 
+<!--
 ## Bikes
 I currently ride a 2019 Trek Marlin 6 hardtail daily. As a 3x8 drivetrain it may be out of date but it has disc brakes, which are an essential for me.
 
@@ -23,5 +24,6 @@ I used to be a software engineer in training. I hate the industry and going to s
 
 ## Photography
 I also used to do freelance photo/video with my Sony a6000. I have since sold it and now use an iPhone 15 Pro. It is extremely nice and produces way better media than my Sony could (I'm sure I'll get a lot of hate for that). I will eventually post my images here, but for now they're on [Unsplash](https://unsplash.com/jordanreger).
+-->
 
 ## Blog posts
