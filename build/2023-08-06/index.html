@@ -8,11 +8,15 @@
 	<link href="https://jordanreger.com/atom.xml" type="application/atom+xml" rel="alternate" title="Jordan Reger's blog" /><style>*{box-sizing:border-box;}html{background-color:white;color:black;}a,a:visited{color:black}body{font-weight:500;margin:0 auto;max-width:650px;padding:1rem;}img{max-width:100%;}pre{overflow:auto;}</style>
 </head>
 
-<nav>
-	<a href="/">&larr; back</a>
+<nav style="clear:both;height:4.5em">
+	<a href="/"><img src="/photos/tron_banner_sky.jpg" style="float:left;width:4.5em;height:4.5em;object-fit:cover;object-position:left top;"/></a>
+	<ul style="list-style-type:none;padding:0;margin:0;margin-left:1em;float:left;">
+		<li><a href="/">Home</a></li>
+		<li><a href="/about">About</a></li>
+		<li><a href="https://sr.ht/~jordanreger">Sourcehut</a></li>
+		<li><a href="/atom.xml">RSS</a></li>
+	</ul>
 </nav>
-
-<main>
 <h1>Alpine Linux</h1>
 <p>2023-08-06</p>
 <p>Drew Devault introduced me to Alpine Linux (second-handedly), and I'm very glad as Alpine Linux treats me so well. I've been trying to find something simple for about a year now, and have jumped between ElementaryOS, OpenBSD, NetBSD, etc. and all of them have had problems, notably running on my hardware (Intel i7 10th gen with integrated graphics). Alpine has had none so far. I would recommend reading his post entitled <a href="https://drewdevault.com/2023/07/25/Alpine-does-not-make-news.html">Alpine Linux does not make the news</a>, as it's a great intro into why Alpine Linux is so great. TL;DR (you really should read it): nothing goes wrong with Alpine Linux. It's written with musl libc so certain things don't work - the only ones I've run into are Steam (installed via Flatpak) and QuickJS (apk package didn't work; rebuilt it from git) - but everything else does. Now I run it on my VM, accessible via <a href="https://fjall.net/">fjäll.net</a>. The documentation isn't as good as OpenBSD, the compatibility isn't as good as Ubuntu, but I don't care: Alpine works.</p>

@@ -1,3 +1,4 @@
+<style>nav{display:none}</style>
 <noscript>
 	<meta http-equiv="refresh" content="0; url=https://sr.ht/~jordanreger/nws" />
 </noscript>
